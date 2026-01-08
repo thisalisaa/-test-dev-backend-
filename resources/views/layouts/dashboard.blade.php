@@ -97,7 +97,6 @@
 
     <!-- plugins:js -->
     <script src="{{ asset('frontend/vendors/js/vendor.bundle.base.js') }}"></script>
-    <!-- endinject -->
 
     <!-- Plugin js for this page -->
     <script src="{{ asset('frontend/vendors/chart.js/Chart.min.js') }}"></script>
